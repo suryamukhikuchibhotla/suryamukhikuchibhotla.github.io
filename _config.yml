@@ -21,7 +21,7 @@ repository               : "https://github.com/suryamukhikuchibhotla/suryamukhik
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo3.jpeg"
+  avatar           : "photo2.jpeg"
   name             : "Suryamukhi Kuchibhotla"
   pronouns         : "she/her"  
   bio              : "Information extraction, Knowledge Representation, NLP"
