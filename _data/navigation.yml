@@ -6,7 +6,7 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?hl=en&authuser=1&user=OVHSl-wAAAAJ
 
   - title: "CV"
     url: /files/Kuchibhotla_CV.pdf
