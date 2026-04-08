@@ -5,11 +5,26 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
-    url: https://scholar.google.com/citations?hl=en&authuser=1&user=OVHSl-wAAAAJ
+#  - title: "Publications"
+#    url: https://scholar.google.com/citations?user=FZHUP1kAAAAJ&hl=en
 
-  - title: "CV"
-    url: /files/Kuchibhotla_CV.pdf
+#  - title: "CV"
+#    url: /files/Kuchibhotla_CV.pdf
+
+  - title: "About"
+    url: /
+  
+  - title: "Experience"
+    url: /experience/
+
+  - title: "Education"
+    url: /education/
+
+  - title: "Publications"
+    url: https://scholar.google.com/citations?user=FZHUP1kAAAAJ&hl=en
+
+  - title: "Contact"
+    url: /contact/
 
 #  - title: "Talks"
 #    url: /talks/    
