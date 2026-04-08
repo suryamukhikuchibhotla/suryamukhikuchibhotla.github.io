@@ -9,10 +9,9 @@ author_profile: true
   <span style="color: #666; font-size: 0.9em;">2019 – 2024</span>
 </div>
 <div style="color: #666; margin-bottom: 0.5em;">Indian Institute of Technology Hyderabad</div>
-
-Computer Science & Engineering
-Thesis: Facilitating Knowledge Sharing via Enhanced Entity Relations Modelling
-CGPA: 9.36 / 10
+<div style="margin-bottom: 0.3em;">Computer Science & Engineering</div>
+<div style="margin-bottom: 0.3em;">Thesis: Facilitating Knowledge Sharing via Enhanced Entity Relations Modelling</div>
+<div style="margin-bottom: 2em;">CGPA: 9.36 / 10</div>
 
 ---
 
@@ -21,9 +20,8 @@ CGPA: 9.36 / 10
   <span style="color: #666; font-size: 0.9em;">2017 – 2019</span>
 </div>
 <div style="color: #666; margin-bottom: 0.5em;">Indian Institute of Technology Hyderabad</div>
-
-Computer Science & Engineering
-CGPA: 9.27 / 10
+<div style="margin-bottom: 0.3em;">Computer Science & Engineering</div>
+<div style="margin-bottom: 2em;">CGPA: 9.27 / 10</div>
 
 ---
 
@@ -32,6 +30,5 @@ CGPA: 9.27 / 10
   <span style="color: #666; font-size: 0.9em;">2012 – 2016</span>
 </div>
 <div style="color: #666; margin-bottom: 0.5em;">Jawaharlal Nehru Technological University Hyderabad</div>
-
-Computer Science & Engineering
-Aggregate: 85.56%
+<div style="margin-bottom: 0.3em;">Computer Science & Engineering</div>
+<div style="margin-bottom: 2em;">Aggregate: 85.56%</div>
