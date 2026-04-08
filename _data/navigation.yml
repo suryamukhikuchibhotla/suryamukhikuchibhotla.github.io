@@ -11,8 +11,8 @@ main:
 #  - title: "CV"
 #    url: /files/Kuchibhotla_CV.pdf
 
-  - title: "About"
-    url: /
+#  - title: "About"
+#    url: /
   
   - title: "Experience"
     url: /experience/
