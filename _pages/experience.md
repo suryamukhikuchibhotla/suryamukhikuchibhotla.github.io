@@ -20,7 +20,7 @@ Working at the intersection of clinical NLP and applied AI research, developing 
 </div>
 <div style="color: #666; margin-bottom: 0.5em;">Indian Institute of Technology Hyderabad</div>
 
-PhD research on knowledge representation and NLP. Worked on named entity recognition and relation extraction using Transformer and LLM architectures, knowledge graph construction and link prediction, and adverse drug event detection and medical concept normalisation. Published 10+ papers in top AI/NLP venues and supervised graduate research throughout.
+PhD research on knowledge representation and NLP. Worked on named entity recognition and relation extraction using Transformer and LLM architectures, knowledge graph construction and link prediction, and adverse drug event detection and medical concept normalisation. 
 
 ---
 
