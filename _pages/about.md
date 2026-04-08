@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Suryamukhi — an AI/ML researcher and engineer with 8+ years of experience building NLP and LLM systems, across both academic research and real-world applications.
+Hi, I'm Suryamukhi, an AI/ML researcher and engineer with 8+ years of experience building NLP and LLM systems, across both academic research and real-world applications.
 
-I'm currently a postdoctoral researcher at Universitätsmedizin Greifswald, where I work on clinical NLP and applied AI — developing systems that help support decision-making in regulated healthcare environments. My work here spans knowledge-grounded LLM pipelines, information extraction from medical records, and building AI that is auditable and designed for high-stakes settings.
+I'm currently a postdoctoral researcher at Universitätsmedizin Greifswald, where I work on clinical NLP and applied AI, developing systems that help support decision-making in regulated healthcare environments. My work here spans knowledge-grounded LLM pipelines, information extraction from medical records, and building AI that is auditable and designed for high-stakes settings.
 
 Before this, I did my PhD at IIT Hyderabad, where I focused on entity and relation modelling across knowledge graphs. I've published 10+ papers in top NLP venues and supervised graduate research along the way.
 
@@ -19,4 +19,4 @@ My broader interests include:
 - Knowledge graphs and ontology-driven AI
 - AI for regulated and high-stakes environments
 
-I'm based in Germany and open to collaborations and conversations — feel free to reach out!
+I'm based in Germany and open to collaborations and conversations. Please feel free to reach out!

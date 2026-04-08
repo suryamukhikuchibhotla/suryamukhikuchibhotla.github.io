@@ -21,7 +21,7 @@ main:
     url: /education/
 
   - title: "Publications"
-    url: https://scholar.google.com/citations?user=FZHUP1kAAAAJ&hl=en
+    url: /publications/
 
   - title: "Contact"
     url: /contact/
