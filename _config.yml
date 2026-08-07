@@ -12,7 +12,7 @@ title                    : "Suryamukhi Kuchibhotla"
 title_separator          : "-"
 name                     : &name "Suryamukhi Kuchibhotla"
 description              : &description "AI/ML Researcher & Engineer"
-url                      : https://suryamukhikuchibhotla.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.kuchibhotla.eu # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/suryamukhikuchibhotla/suryamukhikuchibhotla.github.io"
 
